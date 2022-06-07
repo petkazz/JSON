@@ -1,4 +1,6 @@
-Zvyagin Petr Aleskeevich
-Eighteen years old
-three pets
-1 million dollars
+{
+  'fullname': 'Zvyagin Petr Aleskeevich',
+  'age': 'Eighteen years old',
+  'count my pets': 'three pets'
+  'myfuturesale': '1 million dollars'
+}
